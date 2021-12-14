@@ -1,6 +1,6 @@
 # Hello World, I'm Suhried  👋
 
- <img align="center" alt="GIF" src="https://github.com/Suhried/Suhried/blob/main/Suhried%20Datta.gif?raw=true" width="90%" height="400" />
+ <img align="center" alt="GIF" src="https://github.com/Suhried/Suhried/blob/main/Suhried%20Datta.gif?raw=true" width="100%" height="400" />
 
 
 ## I'm a Student, Developer, Creator!!
