@@ -1,6 +1,9 @@
 # Hello, I'm Suhried  👋
 
- <img justify-content="centre" alt="GIF" src="https://github.com/Suhried/Suhried/blob/main/intro.gif?raw=true" width="90%" height="350" />
+<p align="center">
+  <img align="center" alt="GIF" src="https://github.com/Suhried/Suhried/blob/main/intro.gif?raw=true" width="80%" height="350" />
+</p>
+
 
 
 ## I'm a Learner, Developer, Creator!!
