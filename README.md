@@ -36,9 +36,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-
-
-
 [youtube]: https://www.youtube.com/channel/UCI2zH7ajBOutNp5cQ54x6hw
 [instagram]: https://www.instagram.com/shanto_datta/
 [linkedin]: https://www.linkedin.com/in/suhried-datta-2118b2186/
