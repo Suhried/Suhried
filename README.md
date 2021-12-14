@@ -1,7 +1,7 @@
 # Hello, I'm Suhried  👋
 
 <p align="center">
-  <img align="center" alt="GIF" src="https://github.com/Suhried/Suhried/blob/main/intro.gif?raw=true" width="80%" height="350" />
+  <img align="center" alt="GIF" src="https://github.com/Suhried/Suhried/blob/main/intro.gif?raw=true" width="80%" height="330" />
 </p>
 
 
@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I speak 3 languages ( Bangla, English, Hindi)
 
 
-## Reach me by:
+## Reach me:
 
 [<img background="white" align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-### Languages and Tools:
+## Languages and Tools:
 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
