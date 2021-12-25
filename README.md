@@ -1,7 +1,7 @@
 # Hello, I'm Suhried  👋
 
 <p align="center">
-  <img align="center" alt="GIF" src="https://github.com/Suhried/Suhried/blob/main/intro.gif?raw=true" width="90%" height="340" />
+  <img align="center" alt="GIF" src="https://github.com/Suhried/Suhried/blob/main/intro.gif?raw=true" width="95%" height="345" />
 </p>
 
 
