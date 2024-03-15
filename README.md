@@ -5,9 +5,10 @@
 </div>
 
 ## I'm a Learner, Innovator, Creator!!
-- 🔭 I’m currently working on my E-commerce project & thesis.
-- 🌱 I’m currently learning WebRTC
-- 👯 I’m intent to work as a full-stack developer
+
+- 💻 Experience in software development, DevOps practices, and Site Reliability Engineering (SRE).
+- 🔭 Currently working on various software projects.
+- 🌱 Constantly learning new technologies and best practices.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The world's largest desert is not the Sahara, but Antarctica.
