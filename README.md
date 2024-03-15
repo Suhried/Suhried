@@ -28,6 +28,13 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" />
+<img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
+<img align="left" alt="GCP" width="26px" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" />
+<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
+<img align="left" alt="Docker" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" />
+<img align="left" alt="Terraform" width="26px" src="https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.svg" />
+<img align="left" alt="Nginx" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" />
+<img align="left" alt="ArgoCD" width="26px" src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/argocd-logo.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
