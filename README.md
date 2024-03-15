@@ -39,5 +39,5 @@
 
 
 [youtube]: https://www.youtube.com/channel/UCI2zH7ajBOutNp5cQ54x6hw
-[instagram]: https://www.instagram.com/shanto_datta/
+[instagram]: [https://www.instagram.com/shanto_datta/](https://www.instagram.com/suhried_datta/)
 [linkedin]: https://www.linkedin.com/in/suhried-datta-2118b2186/
