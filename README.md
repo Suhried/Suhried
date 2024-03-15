@@ -4,7 +4,7 @@
   <img align="center" alt="GIF" src="https://github.com/Suhried/Suhried/blob/main/intro.gif?raw=true" width="95%" height="345" />
 </p>
 
-
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 ## I'm a Learner, Developer, Creator!!
 - 🔭 I’m currently working on my E-commerce project & thesis.
@@ -12,7 +12,7 @@
 - 👯 I’m intent to work as a full-stack developer
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak 3 languages ( Bangla, English, Hindi)
+- ⚡ Fun fact: The world's largest desert is not the Sahara, but Antarctica.
 
 
 ## Reach me on:
