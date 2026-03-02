@@ -2,6 +2,11 @@
 
 <div align="center">
   <h1>Hello, I'm Suhried 👋</h1>
+  <p>
+    <a href="https://suhried.github.io" target="_blank">
+      🌐 suhried.github.io
+    </a>
+  </p>
 </div>
 
 ## I'm a Learner, Innovator, Creator!!
