@@ -2,9 +2,10 @@
 
 <div align="center">
   <h1>Hello, I'm Suhried 👋</h1>
+  <p>🚀 Want to know more about me?</p>
   <p>
     <a href="https://suhried.github.io" target="_blank">
-      🌐 suhried.github.io
+      👉 Visit My Portfolio
     </a>
   </p>
 </div>
